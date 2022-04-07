@@ -1,6 +1,15 @@
 # Lab4web
 
+NAMA    : Didi Kumaedi
+
+NIM       : 312010002
+
+Kelas    : TI.20.D.1
+
+Pemrograman WEB
+
 PRAKTIKUM 4
+
 Persiapan membuat dokumen HTML dengan nama file lab4_box.html.
 
 ![Screenshot (105)](https://user-images.githubusercontent.com/101849655/162233048-3acf9cd0-72cd-441c-9013-e85f4168c722.png)
@@ -31,8 +40,16 @@ Selanjutnya buka browser dan refresh kembali.
 
 ![Screenshot (114)](https://user-images.githubusercontent.com/101849655/162235003-080525bb-b666-4044-abfa-31f6d2f10878.png)
 
-Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right),
-dan amati perubahannya.
+
+
+Membuat Layout Sederhana
+
+Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
+home.html, dan file css dengan nama style.css.
+kemudian masukan kode html.
+
+
+
 
 
 
